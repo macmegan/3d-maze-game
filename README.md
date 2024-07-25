@@ -7,6 +7,7 @@ This project is a 3D maze game built using React and Three.js. Navigate through 
 - [Features](#features)
 - [Usage](#usage)
 - [Deployment](#deployment)
+- [References](#references)
 
 ## Features
 
@@ -24,3 +25,8 @@ Once dependencies are installed, start the app at http://localhost:3000
 
 ## Deployment
 The project can also be accessed from https://macmegan.github.io/maze-game/
+
+## References
+- https://threejs.org/
+- https://docs.github.com/en/actions
+- https://legacy.reactjs.org/
