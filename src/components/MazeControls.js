@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import * as THREE from 'three'; 
 import { PointerLockControls } from 'three/examples/jsm/controls/PointerLockControls'; 
 import { snapToGrid, checkCollision } from '../utils/MazeUtils';
