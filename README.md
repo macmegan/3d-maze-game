@@ -24,7 +24,7 @@ Once dependencies are installed, start the app at http://localhost:3000
 ### `npm start`
 
 ## Deployment
-The project can also be accessed from https://macmegan.github.io/maze-game/
+The project can also be accessed from [https://macmegan.github.io/3d-maze-game/](https://macmegan.github.io/3d-maze-game/)
 
 ## References
 - https://threejs.org/
