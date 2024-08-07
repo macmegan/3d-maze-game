@@ -1,12 +1,13 @@
 {
-  "name": "maze-game",
+  "name": "3d-maze-game",
   "version": "0.1.0",
-  "homepage": "https://macmegan.github.io/maze-game/",
+  "homepage": "https://macmegan.github.io/3d-maze-game/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "three": "^0.137.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -39,6 +40,9 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@types/three": "^0.167.0",
     "gh-pages": "^6.1.1"
   }
 }
